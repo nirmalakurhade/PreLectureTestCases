@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14157" started-at="2021-11-21T19:22:29 IST" finished-at="2021-11-21T19:22:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14157" started-at="2021-11-21T19:22:29 IST" finished-at="2021-11-21T19:22:43 IST">
+      <class name="jbk.InsideCase">
+        <test-method status="PASS" signature="login()[pri:0, instance:jbk.InsideCase@77a57272]" name="login" is-config="true" duration-ms="12995" started-at="2021-11-21T19:22:29 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Jlogo()[pri:0, instance:jbk.InsideCase@77a57272]" name="Jlogo" duration-ms="55" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jlogo -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:jbk.InsideCase@77a57272]" name="Logout" duration-ms="37" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Operator()[pri:0, instance:jbk.InsideCase@77a57272]" name="Operator" duration-ms="30" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Operator -->
+        <test-method status="PASS" signature="Useful()[pri:0, instance:jbk.InsideCase@77a57272]" name="Useful" duration-ms="34" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Useful -->
+        <test-method status="PASS" signature="Users()[pri:0, instance:jbk.InsideCase@77a57272]" name="Users" duration-ms="32" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Users -->
+        <test-method status="PASS" signature="automationcourse()[pri:0, instance:jbk.InsideCase@77a57272]" name="automationcourse" duration-ms="32" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationcourse -->
+        <test-method status="PASS" signature="coursepython()[pri:0, instance:jbk.InsideCase@77a57272]" name="coursepython" duration-ms="33" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coursepython -->
+        <test-method status="PASS" signature="datacourse()[pri:0, instance:jbk.InsideCase@77a57272]" name="datacourse" duration-ms="35" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datacourse -->
+        <test-method status="PASS" signature="desingline()[pri:0, instance:jbk.InsideCase@77a57272]" name="desingline" duration-ms="35" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- desingline -->
+        <test-method status="PASS" signature="downloadoption()[pri:0, instance:jbk.InsideCase@77a57272]" name="downloadoption" duration-ms="34" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadoption -->
+        <test-method status="PASS" signature="javacourse()[pri:0, instance:jbk.InsideCase@77a57272]" name="javacourse" duration-ms="32" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javacourse -->
+        <test-method status="PASS" signature="logo()[pri:0, instance:jbk.InsideCase@77a57272]" name="logo" duration-ms="33" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logo -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:jbk.InsideCase@77a57272]" name="logout" duration-ms="32" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="maincourse()[pri:0, instance:jbk.InsideCase@77a57272]" name="maincourse" duration-ms="32" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maincourse -->
+        <test-method status="PASS" signature="ondashboard()[pri:0, instance:jbk.InsideCase@77a57272]" name="ondashboard" duration-ms="29" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ondashboard -->
+        <test-method status="PASS" signature="phpcheck()[pri:0, instance:jbk.InsideCase@77a57272]" name="phpcheck" duration-ms="31" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phpcheck -->
+        <test-method status="PASS" signature="softwarecourse()[pri:0, instance:jbk.InsideCase@77a57272]" name="softwarecourse" duration-ms="32" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- softwarecourse -->
+        <test-method status="PASS" signature="webcourse()[pri:0, instance:jbk.InsideCase@77a57272]" name="webcourse" duration-ms="33" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webcourse -->
+        <test-method status="PASS" signature="closedriver()[pri:0, instance:jbk.InsideCase@77a57272]" name="closedriver" is-config="true" duration-ms="477" started-at="2021-11-21T19:22:42 IST" finished-at="2021-11-21T19:22:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- jbk.InsideCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="jbk.InsideCase">
+        <methods>
+          <include name="phpcheck"/>
+          <include name="javacourse"/>
+          <include name="logo"/>
+          <include name="desingline"/>
+          <include name="Useful"/>
+          <include name="Logout"/>
+          <include name="ondashboard"/>
+          <include name="Jlogo"/>
+          <include name="logout"/>
+          <include name="closedriver"/>
+          <include name="login"/>
+          <include name="maincourse"/>
+          <include name="webcourse"/>
+          <include name="Users"/>
+          <include name="coursepython"/>
+          <include name="softwarecourse"/>
+          <include name="datacourse"/>
+          <include name="Operator"/>
+          <include name="automationcourse"/>
+          <include name="downloadoption"/>
+        </methods>
+      </class> <!-- jbk.InsideCase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
